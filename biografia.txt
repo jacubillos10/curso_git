@@ -10,3 +10,4 @@ Me aceptaron, pero eso no es la parte complicada.
 Inteligencia Artificial? Quizá? Quizá no? 
 
 Hice el primer push en git, donde sabia lo que estaba haciento
+Estoy cagandola
