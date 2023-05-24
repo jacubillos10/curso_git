@@ -7,4 +7,6 @@ alguito de Python
 Quiero hacer Maestría en IELE. 
 Me aceptaron, pero eso no es la parte complicada. 
 ¿Alguien le quiere dar una asistencia graduada a esta pobre alma?
-Que sea alguien enfocado en Inteligencia Artificial
+Inteligencia Artificial? Quizá? Quizá no? 
+
+Hice el primer push en git, donde sabia lo que estaba haciento
