@@ -11,3 +11,5 @@ Inteligencia Artificial? Quizá? Quizá no?
 
 Hice el primer push en git, donde sabia lo que estaba haciento
 Pepito ha sido banneado de este repo
+
+NO había typo. Procedamos
