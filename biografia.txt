@@ -4,10 +4,9 @@ libres juego micro, veo
 anime y juego AOE2DE. Se
 alguito de Python
 
-Quiero hacer Maestría en IELE. 
-Me aceptaron, pero eso no es la parte complicada. 
-¿Alguien le quiere dar una asistencia graduada a esta pobre alma?
-Inteligencia Artificial? Quizá? Quizá no? 
+Quiero hacer Maestría en FISI.
+Hay varias cosas que han cambiado desde que empecé a ver el curso
+Querido profe, lo que vea en este repo por favor ignorelo. Gracias 
 
 Hice el primer push en git, donde sabia lo que estaba haciento
 Pepito ha sido banneado de este repo
